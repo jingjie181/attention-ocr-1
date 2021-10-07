@@ -1,0 +1,16 @@
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/sp_0_0sp.jpg sp_0_0sp
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/sp_1_0sp.jpg sp_1_0sp
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/sp_2_0sp.jpg sp_2_0sp
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/sp_3_0sp.jpg sp_3_0sp
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/close_0_0close.jpg close_0_0close
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/close_1_0close.jpg close_1_0close
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/close_2_0close.jpg close_2_0close
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/close_3_0close.jpg close_3_0close
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/dilate_0_0dilate.jpg dilate_0_0dilate
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/dilate_1_0dilate.jpg dilate_1_0dilate
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/dilate_2_0dilate.jpg dilate_2_0dilate
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/dilate_3_0dilate.jpg dilate_3_0dilate
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/erode_0_0erode.jpg erode_0_0erode
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/erode_1_0erode.jpg erode_1_0erode
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/erode_2_0erode.jpg erode_2_0erode
+C:/Users/joman/Documents/GitHub/aocr/datasets/train/erode_3_0erode.jpg erode_3_0erode

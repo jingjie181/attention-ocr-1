@@ -1,0 +1,7 @@
+C:/Users/joman/Documents/GitHub/aocr/out_img/train/train1.jpg train1
+C:/Users/joman/Documents/GitHub/aocr/out_img/train/train2.jpg train2
+C:/Users/joman/Documents/GitHub/aocr/out_img/train/train3.jpg train3
+C:/Users/joman/Documents/GitHub/aocr/out_img/train/train4.jpg train4
+C:/Users/joman/Documents/GitHub/aocr/out_img/train/train5.jpg train5
+C:/Users/joman/Documents/GitHub/aocr/out_img/train/train6.jpg train6
+C:/Users/joman/Documents/GitHub/aocr/out_img/train/train7.jpg train7
