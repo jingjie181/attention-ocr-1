@@ -1,0 +1,9 @@
+C:\Users\joman\Documents\GitHub\aocr\out_img\test\arthromere_5.jpg arthromere
+C:\Users\joman\Documents\GitHub\aocr\out_img\test\gangrenate_1.jpg gangrenate
+C:\Users\joman\Documents\GitHub\aocr\out_img\test\overbreeding_17.jpg overbreeding
+C:\Users\joman\Documents\GitHub\aocr\out_img\test\hi.jpg hi
+C:\Users\joman\Documents\GitHub\aocr\out_img\test\yessed_1.jpg yessed
+C:\Users\joman\Documents\GitHub\aocr\out_img\test\intender_0.jpg intender
+C:\Users\joman\Documents\GitHub\aocr\out_img\test\mucks_8.jpg mucks
+
+

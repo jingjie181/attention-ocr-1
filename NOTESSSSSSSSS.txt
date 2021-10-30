@@ -1,0 +1,55 @@
+
+C:\Users\joman\Documents\GitHub\aocr
+
+C:/Users/joman/anaconda3/Scripts/activate
+aocr dataset C:/Users/joman/Desktop/datasets/annotations-training.txt C:/Users/joman/Desktop/datasets/training.tfrecords
+aocr dataset C:/Users/joman/Desktop/datasets/annotations-testing.txt C:/Users/joman/Desktop/datasets/testing.tfrecords
+
+aocr train C:\Users\joman\Documents\GitHub\aocr\training.tfrecords
+
+aocr train C:\Users\joman\Documents\GitHub\aocr\testing.tfrecords
+aocr test --visualize C:\Users\joman\Documents\GitHub\aocr\testing.tfrecords
+
+aocr export C:\Users\joman\Documents\GitHub\aocr\exported-model	
+aocr export --format=frozengraph C:\Users\joman\Documents\GitHub\aocr\exported-model
+
+
+
+
+
+## entire receipt image - didnt work, model could not train
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\annotations-training.txt C:\Users\joman\Documents\GitHub\aocr\training.tfrecords
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\annotations-testing.txt C:\Users\joman\Documents\GitHub\aocr\testing.tfrecords
+aocr train C:\Users\joman\Documents\GitHub\aocr\training.tfrecords
+aocr test --visualize C:\Users\joman\Documents\GitHub\aocr\testing.tfrecords
+
+
+## single word image, worked but accuracy doesnt seem to be good
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\annotations_train.txt C:\Users\joman\Documents\GitHub\aocr\annotations_train.tfrecords
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\annotations_test.txt C:\Users\joman\Documents\GitHub\aocr\annotations_test.tfrecords
+aocr train C:\Users\joman\Documents\GitHub\aocr\annotations_train.tfrecords --max-prediction 20
+aocr test --visualize C:\Users\joman\Documents\GitHub\aocr\annotations_test.tfrecords --max-prediction 20
+aocr test C:\Users\joman\Documents\GitHub\aocr\annotations_test.tfrecords
+aocr export C:\Users\joman\Documents\GitHub\aocr\exported-model	
+aocr export --format=frozengraph C:\Users\joman\Documents\GitHub\aocr\exported-model
+
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\bel-train.txt C:\Users\joman\Documents\GitHub\aocr\bel-train.tfrecords
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\bel-test.txt C:\Users\joman\Documents\GitHub\aocr\bel-test.tfrecords
+aocr train C:\Users\joman\Documents\GitHub\aocr\bel-train.tfrecords
+aocr test --visualize C:\Users\joman\Documents\GitHub\aocr\bel-test.tfrecords
+aocr test C:\Users\joman\Documents\GitHub\aocr\bel-test.tfrecords
+aocr export C:\Users\joman\Documents\GitHub\aocr\exported-model	
+aocr export --format=frozengraph C:\Users\joman\Documents\GitHub\aocr\exported-model
+
+
+## chinese char - didnt work, model could not train
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\chi_train.txt C:\Users\joman\Documents\GitHub\aocr\chitrain.tfrecords
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\chi_test.txt C:\Users\joman\Documents\GitHub\aocr\chitest.tfrecords
+aocr train C:\Users\joman\Documents\GitHub\aocr\chitrain.tfrecords
+aocr test --visualize C:\Users\joman\Documents\GitHub\aocr\chitest.tfrecords
+
+## thai char 
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\thaitrain.txt C:\Users\joman\Documents\GitHub\aocr\thaitrain.tfrecords
+aocr dataset C:\Users\joman\Documents\GitHub\aocr\thaitest.txt C:\Users\joman\Documents\GitHub\aocr\thaitest.tfrecords
+aocr train C:\Users\joman\Documents\GitHub\aocr\thaitrain.tfrecords
+aocr test --visualize C:\Users\joman\Documents\GitHub\aocr\thaitest.tfrecords

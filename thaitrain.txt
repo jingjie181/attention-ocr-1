@@ -1,0 +1,7 @@
+C:\Users\joman\Documents\GitHub\aocr\thai\train\test0.jpg ปารีสนิยม
+C:\Users\joman\Documents\GitHub\aocr\thai\train\test1.jpg มั่วปนเปกัน
+C:\Users\joman\Documents\GitHub\aocr\thai\train\test2.jpg ๒๔๘๒
+C:\Users\joman\Documents\GitHub\aocr\thai\train\test3.jpg พระโฉมศัพท์
+C:\Users\joman\Documents\GitHub\aocr\thai\train\test4.jpg เร็ลชตาพ
+C:\Users\joman\Documents\GitHub\aocr\thai\train\test5.jpg คาเรตโต
+C:\Users\joman\Documents\GitHub\aocr\thai\train\test6.jpg ฟ้า

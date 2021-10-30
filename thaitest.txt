@@ -1,0 +1,3 @@
+C:\Users\joman\Documents\GitHub\aocr\thai\test\test7.jpg ซาลส์
+C:\Users\joman\Documents\GitHub\aocr\thai\test\test8.jpg มลพิษ
+C:\Users\joman\Documents\GitHub\aocr\thai\test\test9.jpg มัสยิดสุลัยมาน

@@ -1,0 +1,9 @@
+C:\Users\joman\Documents\GitHub\aocr\chi\train\一_9.jpg 一
+C:\Users\joman\Documents\GitHub\aocr\chi\train\元_7.jpg 元
+C:\Users\joman\Documents\GitHub\aocr\chi\train\勝_2.jpg 勝
+C:\Users\joman\Documents\GitHub\aocr\chi\train\喔_6.jpg 喔
+C:\Users\joman\Documents\GitHub\aocr\chi\train\專_8.jpg 專
+C:\Users\joman\Documents\GitHub\aocr\chi\train\景_0.jpg 景
+C:\Users\joman\Documents\GitHub\aocr\chi\train\此_4.jpg 此
+C:\Users\joman\Documents\GitHub\aocr\chi\train\部_3.jpg 部
+C:\Users\joman\Documents\GitHub\aocr\chi\train\野_5.jpg 野
